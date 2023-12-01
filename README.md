@@ -6,7 +6,7 @@ Este é o frontend do projeto de geolocalização, desenvolvido em Vue.js.
 
 1. Certifique-se de ter o [Node.js 14.17](https://nodejs.org/) instalado.
 2. Clone o repositório:
-    https://github.com/MykleBR/Join-Tecnologia.git
+    https://github.com/MykleBR/Join-Tecnologia1
 
 ## Instalação npm
 
